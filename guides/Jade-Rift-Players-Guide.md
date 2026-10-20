@@ -4847,8 +4847,8 @@ In the order you reach each place, chapter by chapter up to each important battl
 
 | How | Pokémon | Type | Level | Chance |
 | --- | --- | --- | --- | --- |
-| Grass / cave (later) | Pupitar | Rock/Ground | 33–40 | 65% |
-| Grass / cave (later) | Graveler | Rock/Ground | 33–39 | 35% |
+| Grass / cave (later) | Golem | Rock/Ground | 33–40 | 65% |
+| Grass / cave (later) | Pupitar | Rock/Ground | 33–39 | 35% |
 | Surfing (later) | Golbat | Poison/Flying | 30–35 | 90% |
 | Surfing (later) | Solrock | Rock/Psychic | 5–35 | 10% |
 | Fishing | Magikarp | Water | 5–30 | 130% |
@@ -5635,15 +5635,15 @@ In the order you reach each place, chapter by chapter up to each important battl
 | Grass / cave | Cacturne | Grass/Dark | 33–34 | 30% |
 | Grass / cave | Golbat | Poison/Flying | 34–35 | 30% |
 | Grass / cave | Dhelmise | Ghost/Grass | 36–38 | 25% |
-| Grass / cave | Nuzleaf | Grass/Dark | 37–38 | 15% |
+| Grass / cave | Gourgeist (Small) | Ghost/Grass | 37–38 | 15% |
 
 #### Sky Pillar 5F
 
 | How | Pokémon | Type | Level | Chance |
 | --- | --- | --- | --- | --- |
 | Grass / cave | Bramblin | Grass/Ghost | 34–35 | 30% |
-| Grass / cave | Phantump | Ghost/Grass | 33–34 | 30% |
-| Grass / cave | Pumpkaboo (Small) | Ghost/Grass | 36–37 | 19% |
+| Grass / cave | Nuzleaf | Grass/Dark | 33–34 | 30% |
+| Grass / cave | Trevenant | Ghost/Grass | 36–37 | 19% |
 | Grass / cave | Poltchageist (Artisan) | Grass/Ghost | 37–38 | 15% |
 | Grass / cave | Altaria | Dragon/Flying | 38–39 | 6% |
 
@@ -5826,13 +5826,13 @@ In the order you reach each place, chapter by chapter up to each important battl
 
 | How | Pokémon | Type | Level | Chance |
 | --- | --- | --- | --- | --- |
-| Grass / cave | Toxicroak | Poison/Fighting | 40–50 | 100% |
+| Grass / cave | Golem | Rock/Ground | 40–50 | 100% |
 
 #### Artisan Cave B1F
 
 | How | Pokémon | Type | Level | Chance |
 | --- | --- | --- | --- | --- |
-| Grass / cave | Rhydon | Ground/Rock | 40–50 | 100% |
+| Grass / cave | Toxicroak | Poison/Fighting | 40–50 | 100% |
 
 ## Shops
 
@@ -5853,6 +5853,46 @@ In the order you reach each place, chapter by chapter up to each important battl
 | Zinc | ¥10,000 | From the start |
 | Carbos | ¥10,000 | From the start |
 | HP Up | ¥10,000 | From the start |
+| Auspicious Armor | ¥3,000 | From the start |
+| Berry Sweet | ¥1,000 | From the start |
+| Black Augurite | ¥8,000 | From the start |
+| Chipped Pot | ¥38,000 | From the start |
+| Clover Sweet | ¥1,000 | From the start |
+| Cracked Pot | ¥1,600 | From the start |
+| Dawn Stone | ¥3,000 | From the start |
+| Dubious Disc | ¥4,000 | From the start |
+| Dusk Stone | ¥3,000 | From the start |
+| Electirizer | ¥4,000 | From the start |
+| Flower Sweet | ¥1,000 | From the start |
+| Galarica Cuff | ¥3,000 | From the start |
+| Galarica Wreath | ¥3,000 | From the start |
+| Ice Stone | ¥3,000 | From the start |
+| Linking Cord | ¥8,000 | From the start |
+| Love Sweet | ¥1,000 | From the start |
+| Magmarizer | ¥4,000 | From the start |
+| Malicious Armor | ¥3,000 | From the start |
+| Masterpiece Teacup | ¥38,000 | From the start |
+| Metal Alloy | ¥6,000 | From the start |
+| Oval Stone | ¥2,000 | From the start |
+| Peat Block | ¥10,000 | From the start |
+| Prism Scale | ¥3,000 | From the start |
+| Protector | ¥4,000 | From the start |
+| Razor Claw | ¥15,000 | From the start |
+| Razor Fang | ¥15,000 | From the start |
+| Reaper Cloth | ¥4,000 | From the start |
+| Ribbon Sweet | ¥1,000 | From the start |
+| Sachet | ¥4,000 | From the start |
+| Scroll of Darkness |  | From the start |
+| Scroll of Waters |  | From the start |
+| Shiny Stone | ¥3,000 | From the start |
+| Star Sweet | ¥1,000 | From the start |
+| Strawberry Sweet | ¥1,000 | From the start |
+| Sweet Apple | ¥2,200 | From the start |
+| Syrupy Apple | ¥2,200 | From the start |
+| Tart Apple | ¥2,200 | From the start |
+| Unremarkable Teacup | ¥1,600 | From the start |
+| Upgrade | ¥4,000 | From the start |
+| Whipped Dream | ¥4,000 | From the start |
 
 ### Ever Grande City Pokemon League 1 F
 
@@ -6345,7 +6385,6 @@ Pokémon that don't simply evolve at a level:
 | Bergmite | Avalugg | Level 37 outside Hisui |
 | Bergmite | Avalugg (Hisui) | Level 37 in Hisui |
 | Bisharp | Kingambit | Level up Defeat X With Items SPECIES_BISHARP, ITEM_LEADERS_CREST, 3 |
-| Boldore | Gigalith | Trade |
 | Boldore | Gigalith | Use Linking Cord |
 | Bonsly | Sudowoodo | Level up knowing Mimic |
 | Bramblin | Brambleghast | Level up Walked enough steps 1000 |
@@ -6366,8 +6405,8 @@ Pokémon that don't simply evolve at a level:
 | Charjabug | Vikavolt | Use Thunder Stone |
 | Charjabug | Vikavolt (Totem) | Breeding only |
 | Chingling | Chimecho | Level up with high friendship in the night |
-| Clamperl | Huntail | Trade holding Deep Sea Tooth |
-| Clamperl | Gorebyss | Trade holding Deep Sea Scale |
+| Clamperl | Huntail | Level up holding Deep Sea Tooth |
+| Clamperl | Gorebyss | Level up holding Deep Sea Scale |
 | Clamperl | Huntail | Use Deep Sea Tooth |
 | Clamperl | Gorebyss | Use Deep Sea Scale |
 | Clefairy | Clefable | Use Moon Stone |
@@ -6394,7 +6433,7 @@ Pokémon that don't simply evolve at a level:
 | Dunsparce | Dudunsparce (Two Segment) | Level up knowing Hyper Drill Pid Modulo 100 Gt 0 |
 | Dunsparce | Dudunsparce (Three Segment) | Level up knowing Hyper Drill Pid Modulo 100 Eq 0 |
 | Duraludon | Archaludon | Use Metal Alloy |
-| Dusclops | Dusknoir | Trade holding Reaper Cloth |
+| Dusclops | Dusknoir | Level up holding Reaper Cloth |
 | Dusclops | Dusknoir | Use Reaper Cloth |
 | Eelektrik | Eelektross | Use Thunder Stone |
 | Eevee | Jolteon | Use Thunder Stone |
@@ -6407,7 +6446,7 @@ Pokémon that don't simply evolve at a level:
 | Eevee | Leafeon | Use Leaf Stone |
 | Eevee | Glaceon | Level up In a certain place MAP_SHOAL_CAVE_LOW_TIDE_ICE_ROOM |
 | Eevee | Glaceon | Use Ice Stone |
-| Electabuzz | Electivire | Trade holding Electirizer |
+| Electabuzz | Electivire | Level up holding Electirizer |
 | Electabuzz | Electivire | Use Electirizer |
 | Espurr | Meowstic (M) | Level 25 if male |
 | Espurr | Meowstic (F) | Level 25 if female |
@@ -6415,7 +6454,7 @@ Pokémon that don't simply evolve at a level:
 | Exeggcute | Exeggutor (Alola) | Use Leaf Stone in Alola |
 | Farfetch'd | Sirfetch'd | After a battle Critical Hits Ge 3 |
 | Feebas | Milotic | Level up Beauty is high enough 170 |
-| Feebas | Milotic | Trade holding Prism Scale |
+| Feebas | Milotic | Level up holding Prism Scale |
 | Feebas | Milotic | Use Prism Scale |
 | Fomantis | Lurantis | Level 34 in the day |
 | Fomantis | Lurantis (Totem) | Breeding only |
@@ -6429,26 +6468,20 @@ Pokémon that don't simply evolve at a level:
 | Golbat | Crobat | Level up with high friendship |
 | Goomy | Sliggoo | Level 40 outside Hisui |
 | Goomy | Sliggoo (Hisui) | Level 40 in Hisui |
-| Graveler | Golem | Trade |
 | Graveler | Golem | Use Linking Cord |
-| Graveler (Alola) | Golem (Alola) | Trade |
 | Graveler (Alola) | Golem (Alola) | Use Linking Cord |
 | Greavard | Houndstone | Level 30 in the night |
 | Growlithe | Arcanine | Use Fire Stone |
 | Growlithe (Hisui) | Arcanine (Hisui) | Use Fire Stone |
-| Gurdurr | Conkeldurr | Trade |
 | Gurdurr | Conkeldurr | Use Linking Cord |
 | Hakamo-o | Kommo-o (Totem) | Breeding only |
 | Happiny | Chansey | Level up in the day holding Oval Stone |
 | Happiny | Chansey | Use Oval Stone in the day |
-| Haunter | Gengar | Trade |
 | Haunter | Gengar | Use Linking Cord |
 | Helioptile | Heliolisk | Use Sun Stone |
 | Igglybuff | Jigglypuff | Level up with high friendship |
 | Jigglypuff | Wigglytuff | Use Moon Stone |
-| Kadabra | Alakazam | Trade |
 | Kadabra | Alakazam | Use Linking Cord |
-| Karrablast | Escavalier | Trade for Shelmet |
 | Kirlia | Gallade | Use Dawn Stone if male |
 | Koffing | Weezing | Level 35 outside Galar |
 | Koffing | Weezing (Galar) | Level 35 in Galar |
@@ -6462,77 +6495,76 @@ Pokémon that don't simply evolve at a level:
 | Lickitung | Lickilicky | Level up knowing Rollout |
 | Linoone (Galar) | Obstagoon | Level 35 in the night |
 | Lombre | Ludicolo | Use Water Stone |
-| Machoke | Machamp | Trade |
 | Machoke | Machamp | Use Linking Cord |
-| Magmar | Magmortar | Trade holding Magmarizer |
+| Magmar | Magmortar | Level up holding Magmarizer |
 | Magmar | Magmortar | Use Magmarizer |
 | Magneton | Magnezone | Level up In a certain area MAPSEC_NEW_MAUVILLE |
 | Magneton | Magnezone | Use Thunder Stone |
 | Mantyke | Mantine | Level up A Pokémon is in the party SPECIES_REMORAID |
 | Meowth (Alola) | Persian (Alola) | Level up with high friendship |
-| Milcery | Alcremie Strawberry Vanilla Cream | Player spins holding Strawberry Sweet in the day |
-| Milcery | Alcremie Strawberry Ruby Cream | Player spins holding Strawberry Sweet in the day |
-| Milcery | Alcremie Strawberry Matcha Cream | Player spins holding Strawberry Sweet in the night |
-| Milcery | Alcremie Strawberry Mint Cream | Player spins holding Strawberry Sweet in the night |
-| Milcery | Alcremie Strawberry Lemon Cream | Player spins holding Strawberry Sweet in the night |
-| Milcery | Alcremie Strawberry Salted Cream | Player spins holding Strawberry Sweet in the night |
-| Milcery | Alcremie Strawberry Ruby Swirl | Player spins holding Strawberry Sweet in the day |
-| Milcery | Alcremie Strawberry Caramel Swirl | Player spins holding Strawberry Sweet in the day |
-| Milcery | Alcremie Strawberry Rainbow Swirl | Player spins holding Strawberry Sweet in the evening |
-| Milcery | Alcremie Berry Vanilla Cream | Player spins holding Berry Sweet in the day |
-| Milcery | Alcremie Berry Ruby Cream | Player spins holding Berry Sweet in the day |
-| Milcery | Alcremie Berry Matcha Cream | Player spins holding Berry Sweet in the night |
-| Milcery | Alcremie Berry Mint Cream | Player spins holding Berry Sweet in the night |
-| Milcery | Alcremie Berry Lemon Cream | Player spins holding Berry Sweet in the night |
-| Milcery | Alcremie Berry Salted Cream | Player spins holding Berry Sweet in the night |
-| Milcery | Alcremie Berry Ruby Swirl | Player spins holding Berry Sweet in the day |
-| Milcery | Alcremie Berry Caramel Swirl | Player spins holding Berry Sweet in the day |
-| Milcery | Alcremie Berry Rainbow Swirl | Player spins holding Berry Sweet in the evening |
-| Milcery | Alcremie Love Vanilla Cream | Player spins holding Love Sweet in the day |
-| Milcery | Alcremie Love Ruby Cream | Player spins holding Love Sweet in the day |
-| Milcery | Alcremie Love Matcha Cream | Player spins holding Love Sweet in the night |
-| Milcery | Alcremie Love Mint Cream | Player spins holding Love Sweet in the night |
-| Milcery | Alcremie Love Lemon Cream | Player spins holding Love Sweet in the night |
-| Milcery | Alcremie Love Salted Cream | Player spins holding Love Sweet in the night |
-| Milcery | Alcremie Love Ruby Swirl | Player spins holding Love Sweet in the day |
-| Milcery | Alcremie Love Caramel Swirl | Player spins holding Love Sweet in the day |
-| Milcery | Alcremie Love Rainbow Swirl | Player spins holding Love Sweet in the evening |
-| Milcery | Alcremie Star Vanilla Cream | Player spins holding Star Sweet in the day |
-| Milcery | Alcremie Star Ruby Cream | Player spins holding Star Sweet in the day |
-| Milcery | Alcremie Star Matcha Cream | Player spins holding Star Sweet in the night |
-| Milcery | Alcremie Star Mint Cream | Player spins holding Star Sweet in the night |
-| Milcery | Alcremie Star Lemon Cream | Player spins holding Star Sweet in the night |
-| Milcery | Alcremie Star Salted Cream | Player spins holding Star Sweet in the night |
-| Milcery | Alcremie Star Ruby Swirl | Player spins holding Star Sweet in the day |
-| Milcery | Alcremie Star Caramel Swirl | Player spins holding Star Sweet in the day |
-| Milcery | Alcremie Star Rainbow Swirl | Player spins holding Star Sweet in the evening |
-| Milcery | Alcremie Clover Vanilla Cream | Player spins holding Clover Sweet in the day |
-| Milcery | Alcremie Clover Ruby Cream | Player spins holding Clover Sweet in the day |
-| Milcery | Alcremie Clover Matcha Cream | Player spins holding Clover Sweet in the night |
-| Milcery | Alcremie Clover Mint Cream | Player spins holding Clover Sweet in the night |
-| Milcery | Alcremie Clover Lemon Cream | Player spins holding Clover Sweet in the night |
-| Milcery | Alcremie Clover Salted Cream | Player spins holding Clover Sweet in the night |
-| Milcery | Alcremie Clover Ruby Swirl | Player spins holding Clover Sweet in the day |
-| Milcery | Alcremie Clover Caramel Swirl | Player spins holding Clover Sweet in the day |
-| Milcery | Alcremie Clover Rainbow Swirl | Player spins holding Clover Sweet in the evening |
-| Milcery | Alcremie Flower Vanilla Cream | Player spins holding Flower Sweet in the day |
-| Milcery | Alcremie Flower Ruby Cream | Player spins holding Flower Sweet in the day |
-| Milcery | Alcremie Flower Matcha Cream | Player spins holding Flower Sweet in the night |
-| Milcery | Alcremie Flower Mint Cream | Player spins holding Flower Sweet in the night |
-| Milcery | Alcremie Flower Lemon Cream | Player spins holding Flower Sweet in the night |
-| Milcery | Alcremie Flower Salted Cream | Player spins holding Flower Sweet in the night |
-| Milcery | Alcremie Flower Ruby Swirl | Player spins holding Flower Sweet in the day |
-| Milcery | Alcremie Flower Caramel Swirl | Player spins holding Flower Sweet in the day |
-| Milcery | Alcremie Flower Rainbow Swirl | Player spins holding Flower Sweet in the evening |
-| Milcery | Alcremie Ribbon Vanilla Cream | Player spins holding Ribbon Sweet in the day |
-| Milcery | Alcremie Ribbon Ruby Cream | Player spins holding Ribbon Sweet in the day |
-| Milcery | Alcremie Ribbon Matcha Cream | Player spins holding Ribbon Sweet in the night |
-| Milcery | Alcremie Ribbon Mint Cream | Player spins holding Ribbon Sweet in the night |
-| Milcery | Alcremie Ribbon Lemon Cream | Player spins holding Ribbon Sweet in the night |
-| Milcery | Alcremie Ribbon Salted Cream | Player spins holding Ribbon Sweet in the night |
-| Milcery | Alcremie Ribbon Ruby Swirl | Player spins holding Ribbon Sweet in the day |
-| Milcery | Alcremie Ribbon Caramel Swirl | Player spins holding Ribbon Sweet in the day |
-| Milcery | Alcremie Ribbon Rainbow Swirl | Player spins holding Ribbon Sweet in the evening |
+| Milcery | Alcremie Strawberry Vanilla Cream | Level up holding Strawberry Sweet in the day Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Strawberry Ruby Cream | Level up holding Strawberry Sweet in the day Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Strawberry Matcha Cream | Level up holding Strawberry Sweet in the night Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Strawberry Mint Cream | Level up holding Strawberry Sweet in the night Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Strawberry Lemon Cream | Level up holding Strawberry Sweet in the night Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Strawberry Salted Cream | Level up holding Strawberry Sweet in the night Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Strawberry Ruby Swirl | Level up holding Strawberry Sweet in the day Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Strawberry Caramel Swirl | Level up holding Strawberry Sweet in the day Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Strawberry Rainbow Swirl | Level up holding Strawberry Sweet in the evening |
+| Milcery | Alcremie Berry Vanilla Cream | Level up holding Berry Sweet in the day Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Berry Ruby Cream | Level up holding Berry Sweet in the day Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Berry Matcha Cream | Level up holding Berry Sweet in the night Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Berry Mint Cream | Level up holding Berry Sweet in the night Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Berry Lemon Cream | Level up holding Berry Sweet in the night Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Berry Salted Cream | Level up holding Berry Sweet in the night Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Berry Ruby Swirl | Level up holding Berry Sweet in the day Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Berry Caramel Swirl | Level up holding Berry Sweet in the day Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Berry Rainbow Swirl | Level up holding Berry Sweet in the evening |
+| Milcery | Alcremie Love Vanilla Cream | Level up holding Love Sweet in the day Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Love Ruby Cream | Level up holding Love Sweet in the day Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Love Matcha Cream | Level up holding Love Sweet in the night Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Love Mint Cream | Level up holding Love Sweet in the night Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Love Lemon Cream | Level up holding Love Sweet in the night Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Love Salted Cream | Level up holding Love Sweet in the night Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Love Ruby Swirl | Level up holding Love Sweet in the day Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Love Caramel Swirl | Level up holding Love Sweet in the day Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Love Rainbow Swirl | Level up holding Love Sweet in the evening |
+| Milcery | Alcremie Star Vanilla Cream | Level up holding Star Sweet in the day Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Star Ruby Cream | Level up holding Star Sweet in the day Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Star Matcha Cream | Level up holding Star Sweet in the night Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Star Mint Cream | Level up holding Star Sweet in the night Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Star Lemon Cream | Level up holding Star Sweet in the night Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Star Salted Cream | Level up holding Star Sweet in the night Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Star Ruby Swirl | Level up holding Star Sweet in the day Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Star Caramel Swirl | Level up holding Star Sweet in the day Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Star Rainbow Swirl | Level up holding Star Sweet in the evening |
+| Milcery | Alcremie Clover Vanilla Cream | Level up holding Clover Sweet in the day Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Clover Ruby Cream | Level up holding Clover Sweet in the day Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Clover Matcha Cream | Level up holding Clover Sweet in the night Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Clover Mint Cream | Level up holding Clover Sweet in the night Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Clover Lemon Cream | Level up holding Clover Sweet in the night Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Clover Salted Cream | Level up holding Clover Sweet in the night Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Clover Ruby Swirl | Level up holding Clover Sweet in the day Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Clover Caramel Swirl | Level up holding Clover Sweet in the day Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Clover Rainbow Swirl | Level up holding Clover Sweet in the evening |
+| Milcery | Alcremie Flower Vanilla Cream | Level up holding Flower Sweet in the day Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Flower Ruby Cream | Level up holding Flower Sweet in the day Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Flower Matcha Cream | Level up holding Flower Sweet in the night Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Flower Mint Cream | Level up holding Flower Sweet in the night Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Flower Lemon Cream | Level up holding Flower Sweet in the night Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Flower Salted Cream | Level up holding Flower Sweet in the night Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Flower Ruby Swirl | Level up holding Flower Sweet in the day Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Flower Caramel Swirl | Level up holding Flower Sweet in the day Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Flower Rainbow Swirl | Level up holding Flower Sweet in the evening |
+| Milcery | Alcremie Ribbon Vanilla Cream | Level up holding Ribbon Sweet in the day Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Ribbon Ruby Cream | Level up holding Ribbon Sweet in the day Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Ribbon Matcha Cream | Level up holding Ribbon Sweet in the night Pid Upper Modulo 10 Lt 2 |
+| Milcery | Alcremie Ribbon Mint Cream | Level up holding Ribbon Sweet in the night Pid Upper Modulo 10 Gt 1 Pid Upper Modulo 10 Lt 5 |
+| Milcery | Alcremie Ribbon Lemon Cream | Level up holding Ribbon Sweet in the night Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Ribbon Salted Cream | Level up holding Ribbon Sweet in the night Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Ribbon Ruby Swirl | Level up holding Ribbon Sweet in the day Pid Upper Modulo 10 Gt 4 Pid Upper Modulo 10 Lt 7 |
+| Milcery | Alcremie Ribbon Caramel Swirl | Level up holding Ribbon Sweet in the day Pid Upper Modulo 10 Gt 6 |
+| Milcery | Alcremie Ribbon Rainbow Swirl | Level up holding Ribbon Sweet in the evening |
 | Mime Jr. | Mr. Mime | Level up knowing Mimic outside Galar |
 | Mime Jr. | Mr. Mime (Galar) | Level up knowing Mimic in Galar |
 | Minccino | Cinccino | Use Shiny Stone |
@@ -6546,7 +6578,7 @@ Pokémon that don't simply evolve at a level:
 | Nosepass | Probopass | Level up In a certain area MAPSEC_NEW_MAUVILLE |
 | Nosepass | Probopass | Use Thunder Stone |
 | Nuzleaf | Shiftry | Use Leaf Stone |
-| Onix | Steelix | Trade holding Metal Coat |
+| Onix | Steelix | Level up holding Metal Coat |
 | Onix | Steelix | Use Metal Coat |
 | Pancham | Pangoro | Level 32 A type is in the party TYPE_DARK |
 | Panpour | Simipour | Use Water Stone |
@@ -6555,7 +6587,6 @@ Pokémon that don't simply evolve at a level:
 | Pawmo | Pawmot | Level up Walked enough steps 1000 |
 | Petilil | Lilligant | Use Sun Stone outside Hisui |
 | Petilil | Lilligant (Hisui) | Use Sun Stone in Hisui |
-| Phantump | Trevenant | Trade |
 | Phantump | Trevenant | Use Linking Cord |
 | Pichu | Pikachu | Level up with high friendship |
 | Pikachu | Raichu | Use Thunder Stone outside Alola |
@@ -6563,22 +6594,18 @@ Pokémon that don't simply evolve at a level:
 | Piloswine | Mamoswine | Level up knowing Ancient Power |
 | Poipole | Naganadel | Level up knowing Dragon Pulse |
 | Poliwhirl | Poliwrath | Use Water Stone |
-| Poliwhirl | Politoed | Trade holding King's Rock |
+| Poliwhirl | Politoed | Level up holding King's Rock |
 | Poliwhirl | Politoed | Use King's Rock |
 | Poltchageist (Artisan) | Sinistcha (Masterpiece) | Use Masterpiece Teacup |
 | Poltchageist (Counterfeit) | Sinistcha (Unremarkable) | Use Unremarkable Teacup |
-| Porygon | Porygon2 | Trade holding Upgrade |
+| Porygon | Porygon2 | Level up holding Upgrade |
 | Porygon | Porygon2 | Use Upgrade |
-| Porygon2 | Porygon-Z | Trade holding Dubious Disc |
+| Porygon2 | Porygon-Z | Level up holding Dubious Disc |
 | Porygon2 | Porygon-Z | Use Dubious Disc |
 | Primeape | Annihilape | Level up Used a move several times MOVE_RAGE_FIST, 20 |
-| Pumpkaboo (Average) | Gourgeist (Average) | Trade |
 | Pumpkaboo (Average) | Gourgeist (Average) | Use Linking Cord |
-| Pumpkaboo (Large) | Gourgeist (Large) | Trade |
 | Pumpkaboo (Large) | Gourgeist (Large) | Use Linking Cord |
-| Pumpkaboo (Small) | Gourgeist (Small) | Trade |
 | Pumpkaboo (Small) | Gourgeist (Small) | Use Linking Cord |
-| Pumpkaboo (Super) | Gourgeist (Super) | Trade |
 | Pumpkaboo (Super) | Gourgeist (Super) | Use Linking Cord |
 | Quilava | Typhlosion | Level 36 outside Hisui |
 | Quilava | Typhlosion (Hisui) | Level 36 in Hisui |
@@ -6586,7 +6613,7 @@ Pokémon that don't simply evolve at a level:
 | Rattata (Alola) | Raticate (Alola) | Level 20 in the night |
 | Rattata (Alola) | Raticate (Alola Totem) | Breeding only |
 | Rellor | Rabsca | Level up Walked enough steps 1000 |
-| Rhydon | Rhyperior | Trade holding Protector |
+| Rhydon | Rhyperior | Level up holding Protector |
 | Rhydon | Rhyperior | Use Protector |
 | Riolu | Lucario | Level up with high friendship in the day |
 | Rockruff | Lycanroc (Midday) | Level 25 in the day |
@@ -6598,13 +6625,12 @@ Pokémon that don't simply evolve at a level:
 | Salandit | Salazzle | Level 33 if female |
 | Salandit | Salazzle (Totem) | Breeding only |
 | Sandshrew (Alola) | Sandslash (Alola) | Use Ice Stone |
-| Scyther | Scizor | Trade holding Metal Coat |
+| Scyther | Scizor | Level up holding Metal Coat |
 | Scyther | Scizor | Use Metal Coat |
 | Scyther | Kleavor | Use Black Augurite |
-| Seadra | Kingdra | Trade holding Dragon Scale |
+| Seadra | Kingdra | Level up holding Dragon Scale |
 | Seadra | Kingdra | Use Dragon Scale |
 | Shellder | Cloyster | Use Water Stone |
-| Shelmet | Accelgor | Trade for Karrablast |
 | Sinistea (Antique) | Polteageist (Antique) | Use Chipped Pot |
 | Sinistea (Phony) | Polteageist (Phony) | Use Cracked Pot |
 | Skitty | Delcatty | Use Moon Stone |
@@ -6612,7 +6638,7 @@ Pokémon that don't simply evolve at a level:
 | Sliggoo | Goodra | Level 50 In certain weather WEATHER_FOG |
 | Sliggoo (Hisui) | Goodra (Hisui) | Level 50 In certain weather WEATHER_RAIN |
 | Sliggoo (Hisui) | Goodra (Hisui) | Level 50 In certain weather WEATHER_FOG |
-| Slowpoke | Slowking | Trade holding King's Rock |
+| Slowpoke | Slowking | Level up holding King's Rock |
 | Slowpoke | Slowking | Use King's Rock |
 | Slowpoke (Galar) | Slowbro (Galar) | Use Galarica Cuff |
 | Slowpoke (Galar) | Slowking (Galar) | Use Galarica Wreath |
@@ -6622,14 +6648,14 @@ Pokémon that don't simply evolve at a level:
 | Sneasel (Hisui) | Sneasler | Use Razor Claw in the day |
 | Snom | Frosmoth | Level up with high friendship in the night |
 | Snorunt | Froslass | Use Dawn Stone if female |
-| Spritzee | Aromatisse | Trade holding Sachet |
+| Spritzee | Aromatisse | Level up holding Sachet |
 | Spritzee | Aromatisse | Use Sachet |
 | Stantler | Wyrdeer | Level up Used a move several times MOVE_PSYSHIELD_BASH, 20 |
 | Staryu | Starmie | Use Water Stone |
 | Steenee | Tsareena | Level up knowing Stomp |
 | Sunkern | Sunflora | Use Sun Stone |
 | Swadloon | Leavanny | Level up with high friendship |
-| Swirlix | Slurpuff | Trade holding Whipped Dream |
+| Swirlix | Slurpuff | Level up holding Whipped Dream |
 | Swirlix | Slurpuff | Use Whipped Dream |
 | Tadbulb | Bellibolt | Use Thunder Stone |
 | Tandemaus | Maushold (Four) | Reaches a level in battle Pid Modulo 100 Gt 0 |
