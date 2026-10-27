@@ -19,7 +19,7 @@ This guide shows what's waiting for you: every important battle, where to catch 
   - Normal: trainers behave as in the original game.
   - Hard: every trainer spots you from far away and in every direction, so you can't sneak past. A Gym Leader only battles you once every trainer in their Gym is beaten.
   - Nightmare: as Hard, and every trainer has six Pokémon at the level cap, fully trained with held items, covering each other's weaknesses, and battling with the smartest AI.
-- EVs and IVs off: you choose. Say yes and every Pokémon has perfect stats from the start - no training needed.
+- Remove EVs and IVs: you choose. Say yes and every Pokémon (yours, wild ones and every trainer's) counts as having perfect IVs and no EVs, so there's nothing to train and the Pokémon Center helper skips IVs and EVs. Say no for the usual rules: EVs from battles, vitamins and the helper all count. (Hidden Power's type always follows a Pokémon's own IVs.)
 - Hard level cap: you choose. Say yes and your Pokémon stop at the cap for the next important battle.
 - No items in battle: you choose. Say yes and you can't use your bag in trainer battles.
 - Infinite Candy: you choose. Say yes to get a Rare Candy that never runs out (it stops at the level cap).
